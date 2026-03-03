@@ -10,6 +10,7 @@ import java.time.Instant;
 import java.util.ArrayList;
 
 public class Main {
+    //базы данных
     private static String URL_SIMPLE_DB$ = "jdbc:sqlite:/home/andy/NewFolder/simple_database.db";
     private static String URL_MAGIC_DB$ = "jdbc:sqlite:/home/andy/NewFolder/magic_database.db";
     private static String URL_CSV_SOURCE$ = "/home/andy/NewFolder/ALUMINIUM";
